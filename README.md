@@ -5,7 +5,7 @@
 
 1. If you're not on Frappe Cloud, install the relevant [dependencies](https://github.com/PyMySQL/mysqlclient?tab=readme-ov-file#install).
 1. Install the app
-1. Set the `use_mysqlclient` config globally:
+1. Set the `use_mysqlclient` config to `1` (globally or on specific sites):
 
     ```sh
     bench set-config -g use_mysqlclient 1
