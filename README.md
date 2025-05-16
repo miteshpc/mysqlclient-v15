@@ -121,7 +121,7 @@ For support, contact: [info@resilient.tech](mailto:info@resilient.tech)
 
 
 
-1. Enjoy upto 4x faster database speeds! 🚀
+# Enjoy upto 4x faster database speeds! 🚀
 
 #### Sponsor
 
